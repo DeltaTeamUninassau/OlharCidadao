@@ -1,6 +1,6 @@
 # Olhar Cidadão
 
- é um projeto de um App social que visa facilitar a participação ativa dos cidadãos na
+ É um projeto de um App social que visa facilitar a participação ativa dos cidadãos na
  identificação e denúncia de irregularidades em suas comunidades.
 
 ## Getting Started
